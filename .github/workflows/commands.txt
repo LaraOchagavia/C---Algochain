@@ -1,8 +1,0 @@
-init tony 400 5
-transfer tony olivia 300
-transfer olivia morena 20 odin 50
-balance morena
-transfer odin juli 20
-mine 9
-balance tony
-save example.txt
